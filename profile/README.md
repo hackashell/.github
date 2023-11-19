@@ -9,3 +9,5 @@ DeFi Omni Dapps uses advanced Shell Protocol architecture and integrates Uniswap
 ## How it's Made
 
 We have used Shell Protocol's accounting smart contract called Ocean and integrated Uniswap V4 to work with it. We have also added 1inch swap quote API to fetch the prices for the token pairs. In addition we have used MetaMask SDK (through wagmi library) and ENS Thourin component library form some frontend components and write subgraph
+
+## Application Screenshots
