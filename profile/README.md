@@ -1,66 +1,45 @@
 ### HackaShell
 
-![profile-banner](https://github.com/hackashell/.github/blob/main/profile/shell-protocol.png)
+![profile-banner](shell-protocol.png)
 
-## Project Description
+> Go to to see all the projects: https://github.com/orgs/hackashell/repositories
 
-DeFi Omni Dapps uses advanced Shell Protocol architecture and integrates Uniswap V4 as the first external DeFi primitive within the Shell ecosystem. The end goal is to have a single protocol which can work with any DeFi primitive making the first true endless composability. Omni Dapps are the future of DeFi
+## Description
 
-## How it's Made
+This GitHub organization is used by Shell Protocol for hackathon purposes.
 
-We have used Shell Protocol's accounting smart contract called Ocean and integrated Uniswap V4 to work with it. We have also added 1inch swap quote API to fetch the prices for the token pairs. In addition we have used MetaMask SDK (through wagmi library) and ENS Thourin component library form some frontend components and write subgraph
+As a base layer and infrastructure for building powerful omni dapps, and composing any DeFi protocol and interactions, Shell is perfect technology for winning hackathons. 
 
-## Smart Contract Addresses
+In order to demonstrate that and onboard more builders into the Shell ecosystem, Shell Protocol engineers and Dev Rels regularly participate in hackathons, teaming up together with other hackers on the hackathons and building projects with the help of Shell.
 
-Arbitrium Goerli
+Past hackathons and the projects and prizes won at those hackathons are listed in the [Hackathon history](#hackathon-history) section below.
 
-```
-0xbD63e4DA19B2f6C22EC6cE9E6838183c28f8CCF0 Ocean
-0x4Cd9E9D2d53A19717329500e58E5d0854ADEAa8F Uniswap V4 Adapter
-```
+Also, you can see the list of upcoming hackathons we are going to participate in the [Upcoming hackathons](#upcoming-hackathons) section below. **If you would like to team up or use Shell Protocol for your project on your own, make sure to reach out to us on our public [Discord](https://discord.com/invite/shellprotocol).**
 
-Scroll Sepolia
+To learn more about Shell, visit the [Shell Protocol website](https://shellprotocol.io/) and read the [Wiki page](https://wiki.shellprotocol.io/getting-started/overview). To start building, please review the [Shell developer documentation](https://docs.shellprotocol.io/).
 
-```
-0x5A5B14594f1BF93656a2B705ECdb873373A4eFe9 Ocean
-0x7C337d52a2425f277b371Fe79CA2CEd02744836A Uniswap V4 Adapter
-```
+## Hackathon history
 
-Arbitrium Goerli
+### ETHGlobal Istanbul (17-19 Nov, 2023)
+Project name: DeFi Omni Dapp
 
-```
-0xbD63e4DA19B2f6C22EC6cE9E6838183c28f8CCF0 Ocean
-0x4Cd9E9D2d53A19717329500e58E5d0854ADEAa8F Uniswap V4 Adapter
-```
+Project showcase: https://ethglobal.com/showcase/defi-omni-dapp-z8sd3
 
-Polygon ZkEVM Testnet
+Prizes won:
 
-```
-0x87913460d23F0a3509cFfA018c4584750C736e65 Ocean
-```
+- Flashbots - Best Use of UniV4 2nd Place
+- Certora - Best formal specification of a project 3rd Place
+- Arbitrum - Pool Prize
+- Scroll - Deploy on Scroll
 
-Celo Testnet
+### ETHIndia 2023 (08-10 Dec, 2023)
+Project name: Lending naan
 
-```
-0x5A5B14594f1BF93656a2B705ECdb873373A4eFe9 Ocean
-```
+Project showcase: https://devfolio.co/projects/lending-naan-a48f
 
-Linea Testnet
+Prizes won:
+- Scroll - Deploy on Scroll
 
-```
-0x5A5B14594f1BF93656a2B705ECdb873373A4eFe9 Ocean
-```
+## Upcoming hackathons
 
-## Application Screenshots
-
-![screenshot](https://raw.githubusercontent.com/hackashell/.github/main/profile/screenshot-5.png)
-
-![screenshot](https://raw.githubusercontent.com/hackashell/.github/main/profile/screenshot-4.png)
-
-![screenshot](https://raw.githubusercontent.com/hackashell/.github/main/profile/screenshot-3.png)
-
-![screenshot](https://raw.githubusercontent.com/hackashell/.github/main/profile/screenshot-2.png)
-
-![screenshot](https://raw.githubusercontent.com/hackashell/.github/main/profile/screenshot-1.png)
-
-🍀
+TBD
