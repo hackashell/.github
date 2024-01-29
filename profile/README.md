@@ -1,6 +1,6 @@
 ### HackaShell
 
-![profile-banner](shell-protocol.png)
+![profile-banner](https://raw.githubusercontent.com/hackashell/.github/main/profile/shell-protocol.png)
 
 > Go to to see all the projects: https://github.com/orgs/hackashell/repositories
 
