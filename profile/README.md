@@ -8,13 +8,13 @@
 
 This GitHub organization is used by Shell Protocol for hackathon purposes.
 
-As a base layer and infrastructure for building powerful omni dapps, and composing any DeFi protocol and interactions, Shell is perfect technology for winning hackathons. 
+As a base layer and infrastructure for building powerful omni dapps, and for composing any DeFi protocol and interactions, Shell is perfect technology for winning hackathons. 
 
-In order to demonstrate that and onboard more builders into the Shell ecosystem, Shell Protocol engineers and Dev Rels regularly participate in hackathons, teaming up together with other hackers on the hackathons and building projects with the help of Shell.
+In order to demonstrate Shell's capabilities and onboard more builders into the ecosystem, Shell Protocol engineers and Dev Rels regularly participate in hackathons, teaming up together with other hackers and building projects with the help of Shell.
 
-Past hackathons and the projects and prizes won at those hackathons are listed in the [Hackathon history](#hackathon-history) section below.
+Past hackathons, projects, and prizes won are listed in the [Hackathon history](#hackathon-history) section below.
 
-Also, you can see the list of upcoming hackathons we are going to participate in the [Upcoming hackathons](#upcoming-hackathons) section below. **If you would like to team up or use Shell Protocol for your project on your own, make sure to reach out to us on our public [Discord](https://discord.com/invite/shellprotocol).**
+Also, you can see our upcoming hackathon participation [Upcoming hackathons](#upcoming-hackathons) section below. **If you would like to team up or use Shell Protocol for your project on your own, make sure to reach out to us on our public [Discord](https://discord.com/invite/shellprotocol).**
 
 To learn more about Shell, visit the [Shell Protocol website](https://shellprotocol.io/) and read the [Wiki page](https://wiki.shellprotocol.io/getting-started/overview). To start building, please review the [Shell developer documentation](https://docs.shellprotocol.io/).
 
